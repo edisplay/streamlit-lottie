@@ -1,5 +1,13 @@
 # Streamlit Lottie
 
+---
+
+This project is [unmaintained](https://www.youtube.com/watch?v=1RFJF_ETpLk).
+
+Though you could get a similar feature by embedding the Lottie HTML code into `st.html`.
+
+---
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/andfanilo/streamlit-lottie-demo/master/app.py)
 
 Integrate [Lottie](https://lottiefiles.com/) animations inside your Streamlit app!
